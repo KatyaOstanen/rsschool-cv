@@ -18,6 +18,7 @@
 * Microsoft Office
 * SAP
 ## Contacts
+* Phone: 12345678
 * [Facebook](https://facebook.com)
 * [Instagram](https://instagram.com)
 * [e-mail](ostanenka@gmail.com)
