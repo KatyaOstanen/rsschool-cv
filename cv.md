@@ -17,7 +17,6 @@
 * PC
 * Microsoft Office
 * SAP
-* Monolith
 ## Contacts
 * [Facebook](https://facebook.com)
 * [Instagram](https://instagram.com)
