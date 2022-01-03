@@ -1,0 +1,115 @@
+body {
+    background-color: pink;
+  }
+  .wrapper {
+    width: 1280px;
+    
+  }
+  .avatar {
+    width: 33%;
+    
+  }
+  header {
+    display: flex;
+   
+  }
+  .name {
+    padding: 0 200px;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+  }
+  .biography {
+    width: 33%;
+    background-color: #FFE4B5;
+    padding: 10px 20px;
+    box-sizing: border-box;
+  }
+  .biography p {
+    display: flex;
+  }
+  .biography span {
+    margin-left: auto;
+    
+  }
+  .biography h2{
+    text-align: center;
+    text-decoration: underline;
+  }
+  main {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .education {
+    width: 60%;
+    background-color: Thistle;
+    margin-left: 6%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+  }
+  .education p {
+    display: flex;
+  }
+  .education span {
+    margin-left: auto;
+  }
+  .education h2 {
+    text-align: center;
+    text-decoration: underline;
+  }
+  .experience {
+    width: 33%;
+      background-color: powderblue;
+    margin-top: 10px;
+  }
+  .experience h2 {
+    text-align: center;
+    text-decoration: underline;
+  }
+  .experience li span {
+    font-weight: bold;
+  }
+  .skills {
+    background-color: darkseagreen;
+    margin-top: 10px;
+    width: 60%;
+    margin-left: 6%;
+    padding: 10px 10px;
+    box-sizing: border-box;
+  }
+  .PC {
+    background-color: #DDA0DD;
+  }
+  .office {
+    background-color: #FFFACD;
+  }
+  .SAP {
+    background-color: #87CEEB;
+  }
+  .skillscontainer {
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+  }
+  .skillscontainer div {
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .skills h2 {
+    text-align: center;
+    text-decoration: underline;
+  }
+  .facebook {
+    width: 5%
+  }
+  .insta {
+    width: 5%;
+  }
+  .email {
+    width: 5%;
+  }
